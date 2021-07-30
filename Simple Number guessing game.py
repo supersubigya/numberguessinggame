@@ -32,4 +32,4 @@ while count < math.log(upper - lower + 1, 2):
 		#this prints the total number if tries you did to guess the number correct
 if count >= math.log(upper - lower + 1, 2):
 	print("\nThe number is ", x)
-	print("\tBetter Luck Next time!")
+	print("\tPlease try again, Better luck next time!")
